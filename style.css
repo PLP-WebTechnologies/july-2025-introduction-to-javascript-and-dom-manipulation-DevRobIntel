@@ -1,0 +1,15 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+#toggleText {
+  padding: 10px;
+  border: 1px solid #333;
+  width: fit-content;
+}
+
+.highlight {
+  background-color: yellow;
+  color: red;
+}
